@@ -1,6 +1,9 @@
+
 # Raptor testing for Vietnamese Legal Law
 
 Thanks to NirDiamant for the notebooks in which include the Raptor implementation!
+
+I also implement another version which will use Huggingface for free :D
 
 
 ## Acknowledgements
